@@ -87,11 +87,11 @@ The following task was advanced and therefore...SO MUCH FUN!
 
  [Plotly Custom Data](https://www.youtube.com/watch?v=7WkTbPzamaA)
 
- [Plotly Custom Data](https://www.youtube.com/watch?v=7WkTbPzamaA)
+ [Plotly Bar chart](https://www.youtube.com/watch?v=N1GwQNatOwo)
 
  [Plotly Custom Data](https://www.youtube.com/watch?v=7WkTbPzamaA)
 
- 
+
 ## Author
 
 * **Gabby Olivares** - **[My github](https://github.com/GabbyOlivares "GitHub for Gabby Olivares")**
