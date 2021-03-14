@@ -71,7 +71,7 @@ The following task was advanced and therefore...SO MUCH FUN!
 
 * Deploy my app to a free static page hosting service, GitHub Pages.
 
-## Tools Used
+## Tools and sources
 
 * Plot.ly
 * Javascript
@@ -84,6 +84,8 @@ The following task was advanced and therefore...SO MUCH FUN!
 * Refered to the [Plotly.js documentation](https://plot.ly/javascript/) when building my plots.
 
 * Also refered to other key sources such as  [A customizable D3 gauge](https://oliverbinns.com/articles/D3js-gauge/)
+
+ [Plotly Library](https://plotly.com/javascript/)
 
 
 ## Author
@@ -98,5 +100,8 @@ Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly 
 ## Copyright
 
 Copyright:copyright: 2020. All Rights Reserved.
+
+---
+
 ##### © 2020 Gabriela Loami Olivares Martinez, BootCamp Tecnologico de Monterrey.
 ##### © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved. 
