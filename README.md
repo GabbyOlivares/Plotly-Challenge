@@ -85,9 +85,13 @@ The following task was advanced and therefore...SO MUCH FUN!
 
 * Also refered to other key sources such as  [A customizable D3 gauge](https://oliverbinns.com/articles/D3js-gauge/)
 
- [Plotly Library](https://plotly.com/javascript/)
+ [Plotly Custom Data](https://www.youtube.com/watch?v=7WkTbPzamaA)
 
+ [Plotly Custom Data](https://www.youtube.com/watch?v=7WkTbPzamaA)
 
+ [Plotly Custom Data](https://www.youtube.com/watch?v=7WkTbPzamaA)
+
+ 
 ## Author
 
 * **Gabby Olivares** - **[My github](https://github.com/GabbyOlivares "GitHub for Gabby Olivares")**
