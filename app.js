@@ -14,17 +14,14 @@ function buildMetadata(sample) {
       panel.append("h6").text(`${key}: ${value}`);
     });
 
-  buildGauge(result.wfreq)
+  //buildGauge(result.wfreq)
 
 
 
   });
 }
 
-function buildGauge(wfreq) {
-  
-
-}
+//function buildGauge(wfreq) {}
 
 function buildCharts(sample) {
 

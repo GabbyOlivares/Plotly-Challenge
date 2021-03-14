@@ -94,8 +94,10 @@ The following task was advanced and therefore...SO MUCH FUN!
 
 Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable_. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
 
+
 ## Copyright
 Gabriela Olivares:copyright: 2020. All Rights Reserved.
 - - -
 
-© 2019 Trilogy Education Services
+##### © 2020 Gabriela Loami Olivares Martinez, BootCamp Tecnologico de Monterrey.
+##### © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved. 
